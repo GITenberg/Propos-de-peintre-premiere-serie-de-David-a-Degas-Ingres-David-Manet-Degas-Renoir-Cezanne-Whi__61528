@@ -1,5 +1,5 @@
 _repo: Propos-de-peintre-premiere-serie-de-David-a-Degas-Ingres-David-Manet-Degas-Renoir-Cezanne-Whi__61528
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Proust, Marcel
@@ -10,6 +10,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Marcel_Proust
     - https://fr.wikipedia.org/wiki/Marcel_Proust
+covers:
+- cover_type: archival
+  image_path: 61528-h/images/cover.jpg
 creator:
   author:
     agent_name: Blanche, Jacques-Émile
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46567
     wikipedia: https://fr.wikipedia.org/wiki/Jacques-%C3%89mile_Blanche
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61528#Propos-de-peintre-premiere-serie-de-David-a-Degas-Ingres-David-Manet-Degas-Renoir-Cezanne-Whi_
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Biographie, Mémoires, Journal intime, Correspondance
