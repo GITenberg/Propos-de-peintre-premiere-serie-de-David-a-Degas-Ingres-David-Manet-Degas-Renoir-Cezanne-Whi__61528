@@ -1,0 +1,43 @@
+_repo: Propos-de-peintre-premiere-serie-de-David-a-Degas-Ingres-David-Manet-Degas-Renoir-Cezanne-Whi__61528
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Proust, Marcel
+    birthdate: 1871
+    deathdate: 1922
+    gutenberg_agent_id: '987'
+    url: http://www.gutenberg.org/2009/agents/987
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Marcel_Proust
+    - https://fr.wikipedia.org/wiki/Marcel_Proust
+creator:
+  author:
+    agent_name: Blanche, Jacques-Émile
+    alias: Blanche, Jacques-Emile
+    birthdate: 1861
+    deathdate: 1942
+    gutenberg_agent_id: '46567'
+    url: http://www.gutenberg.org/2009/agents/46567
+    wikipedia: https://fr.wikipedia.org/wiki/Jacques-%C3%89mile_Blanche
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Biographie, Mémoires, Journal intime, Correspondance
+- FR Peinture
+gutenberg_issued: '2020-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61528'
+  lccn: '21010789'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Painters'
+- GITenberg
+title: "Propos de peintre, première série: de David à Degas\r\nIngres, David, Manet,\
+  \ Degas, Renoir, Cézanne, Whistler, Fantin-Latour, Ricard, Conder, Beardsley, etc.\
+  \ Préface par Marcel Proust"
+url: http://www.gutenberg.org/ebooks/61528
